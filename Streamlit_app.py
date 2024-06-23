@@ -126,7 +126,7 @@ for question, answer in faq.items():
 
 st.write("")
 st.write("---")
-st.subheader(":e_mail: Have a question? Get in touch with us.")
+st.subheader("📧Have a question? Get in touch with us.")
 
 contact_form=f"""<form action="https://formsubmit.co/mahajanchirag718@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
